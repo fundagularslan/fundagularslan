@@ -13,15 +13,15 @@ Aynı işlemi 6 ve 16'yla tekrarladığımızda dizinin sıralandığını göre
 
 2.	Big-O gösterimini yazınız.
  
- O(n^2)
+$\ O(n^2) $
 
 3.	Time Complexity: 
 
-Average case: n^2
+Average case: $\ n^2 $
 
-Worst case: n^2 
+Worst case: $\ n^2 $
 
-Best case: n
+Best case: $\ n $
 
 
 4.	Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
