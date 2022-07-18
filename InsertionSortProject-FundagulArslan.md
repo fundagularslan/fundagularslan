@@ -18,8 +18,11 @@ Aynı işlemi 6 ve 16'yla tekrarladığımızda dizinin sıralandığını göre
 3.	Time Complexity: 
 
 Average case: n^2
+
 Worst case: n^2 
+
 Best case: n
+
 
 4.	Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
