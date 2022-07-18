@@ -1,5 +1,7 @@
 [22,27,16,2,18,6] -> Insertion Sort
+
 1.	Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+
 Diziyi küçükten büyüğe sıralamak için önce 2 ve 22'nin yerini değiştirmeliyiz. 
 Aynı işlemi 6 ve 16'yla tekrarladığımızda dizinin sıralandığını görebiliriz.
 
@@ -32,7 +34,3 @@ Dizi sıralandıktan sonra 18 sıranın en ortasında olduğu için average case
 [2,3,4,5,7,9,8,15,6]
 
 [2,3,4,5,6,9,8,15,7]
-
-|2|, |5|
-
-
